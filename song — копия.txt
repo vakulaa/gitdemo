@@ -17,6 +17,7 @@ And that's the message that we deliver to little kids26
 Of course, they're gonna know what intercourse is
 https://lyricstranslate.com
 
+<<<<<<< HEAD
 sdkjfksjds
 sdf
 sadf
@@ -50,3 +51,6 @@ sdf
 цукцук
 
 укцук
+=======
+1234
+>>>>>>> origin/merge_1
